@@ -4,15 +4,15 @@
 
 - 🌍 **[Pangea Chat](https://app.pangea.chat/)** - Language learning through conversations with friends; I built the frontend, AI services, and delivery systems
 - 🤖 **[CYOBot Robotics Quest](https://dashboard.cyobot.com/)** - Browser-based coding and robotics education; I built the coding portal, content system, and shared sign-in flow
-- 🛠️ **[Vulcan](https://www.wilsonle.me/)** - Internal platform for managing content, access, and production services
+- 🛠️ **[Vulcan](https://wearevulcan.com/)** - Internal platform for managing content, access, and production services
 
 #### Open Source
 
 - 🔐 **[payload-oauth2](https://github.com/WilsonLe/payload-oauth2)** - OAuth2 integration plugin for Payload CMS
-- ☁️ **[serverless-strapi](https://github.com/WilsonLe/serverless-strapi)** - Setup for running Strapi in a serverless environment
 
 #### Earlier Projects
 
+- ☁️ **[serverless-strapi](https://github.com/WilsonLe/serverless-strapi)** - Setup for running Strapi in a serverless environment
 - 🎵 **[react-music-player](https://github.com/WilsonLe/react-music-player)** - Clean, minimal music player web app
 - 🪟 **[win-of-1720](https://github.com/WilsonLe/win-of-1720)** - Windows-themed site preserving memories from my high school class
 
